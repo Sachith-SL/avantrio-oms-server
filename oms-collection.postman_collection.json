@@ -1,0 +1,18 @@
+{
+  "info": {
+    "_postman_id": "5ac96b9d-aca8-4e5e-ad16-4a03b0700928",
+    "name": "oms-collection",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "37352213"
+  },
+  "item": [
+    {
+      "name": "New Request",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
